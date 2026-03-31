@@ -12,8 +12,6 @@ We are a community-driven user group focused on .NET, ASP.NET, and the wider tec
       <a href="https://arinco.com.au/">
         <img src="./assets/arinco-logo.svg" alt="Arinco" height="60">
       </a>
-      <br>
-      <em>A Microsoft-partnered consultancy company</em>
     </td>
     <td align="center" width="50%">
       <a href="https://www.microsoft.com/">
