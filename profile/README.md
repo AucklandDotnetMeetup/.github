@@ -4,6 +4,9 @@ Welcome to the **Auckland .NET User Group** GitHub organization.
 
 We are a community-driven user group focused on .NET, ASP.NET, and the wider technologies and practices around them. Our talks and events have also covered software architecture, cloud technologies, and other topics that help developers build modern applications.
 
+##  Joining the Org 
+Please create a discussion on [Membership Requests](https://github.com/orgs/AucklandDotnetMeetup/discussions/categories/membership-requests) if you would like to contribute
+
 ## 🤝 Sponsors
 
 <table>
